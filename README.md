@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvesh Upadhyay
 
-<!--
-**sarvesh-upadhyay21/sarvesh-upadhyay21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Engineer @ Coforge (NIC, MeitY)  
+💻 Full Stack Developer | .NET Core | React | Network Management  
+🇮🇳 Building scalable government systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Working on Govt Projects @ NIC  
+- 📱 Developed Jansanvad (React Native App)  
+- ⚡ Strong in APIs & System Design  
+- 🌱 Learning new technologies  
+
+---
+
+## 🛠️ Tech Stack
+- .NET Core / ASP.NET MVC  
+- React / React Native  
+- JavaScript / SQL Server  
+- Git & GitHub  
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/sarvesh-u-711809174  
+- 🌐 Blog: https://technewswithsarvesh.blogspot.com/
