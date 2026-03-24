@@ -2,15 +2,15 @@
 
 🚀 Senior Engineer @ Coforge (NIC, MeitY)  
 💻 Full Stack Developer | .NET Core | React | Network Systems  
-🇮🇳 Building scalable & impactful government solutions  
+🇮🇳 Working on scalable government solutions  
 
 ---
 
 ## 🧠 About Me  
 - 🔭 Working on Government Projects @ NIC  
-- 📱 Developed **Jansanvad App (React Native)**  
 - ⚡ Strong in API Development & System Design  
-- 🌱 Exploring modern web technologies & performance optimization  
+- 💡 Experienced in Network Management Systems  
+- 🌱 Continuously learning modern technologies  
 
 ---
 
@@ -19,7 +19,6 @@
 ### 👨‍💻 Languages & Frameworks  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### ⚙️ Tools & Technologies  
@@ -30,15 +29,16 @@
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Work  
 
-### 🔹 Jansanvad App  
-📱 Public communication platform with role-based system (Admin, Leader, User)  
-⚡ Built using React Native  
+🔹 Government Systems @ NIC  
+- Secure & scalable applications  
+- Real-time data handling  
+- Enterprise-level solutions  
 
-### 🔹 Government Systems @ NIC  
-🔐 Secure & scalable applications  
-📊 Real-time data processing systems  
+🔹 Full Stack Development  
+- Building web applications using .NET Core & React  
+- REST API development & integration  
 
 ---
 
@@ -71,4 +71,4 @@
 ---
 
 ## ⚡ Fun Fact  
-I love building real-world impactful systems & solving complex problems 🚀
+Passionate about solving real-world problems through technology 🚀
